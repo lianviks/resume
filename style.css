@@ -1,0 +1,53 @@
+body{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background: #f1f1f1;
+    color: #0f141e;
+}
+.container{
+    max-width: 750px;
+    padding: 20px;
+    margin: auto;
+}
+.avatar{
+    width: 200px;
+    height: 330px;
+    border-radius: 28px;
+    box-shadow: 4px 4px 14px black;
+}
+.card{
+    padding: 15px 20px;
+    margin-bottom: 20px;
+    border-radius: 28px;
+}
+.contact{
+    background: mediumpurple;
+}
+.hob{
+    background:rgb(112, 209, 204);
+}
+.table{
+    background: lightcoral;
+}
+.soc{
+    background: lightgreen;
+}
+.res{
+    margin-bottom: 20px;
+}
+.btn{
+    background: black;
+    padding: 15px 20px;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    cursor:pointer;
+}
+.btn:hover{
+    opacity: .8;
+    color: orange;
+}
+a:hover{
+    color:orange;
+}
